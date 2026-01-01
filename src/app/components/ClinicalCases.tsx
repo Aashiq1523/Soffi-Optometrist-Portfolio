@@ -10,42 +10,42 @@ const clinicalCases = [
     category: "Anterior Segment",
     // description: "Comprehensive case study of a patient presenting with acute corneal abrasion following foreign body trauma. Documentation includes initial presentation, treatment protocol, and follow-up care.",
     // findings: ["Fluorescein staining positive", "No signs of infection", "Complete healing in 72 hours"],
-    image: "/src/assets/images/anterior_segment.jpeg"
+    image: "/assets/images/anterior_segment.jpeg"
   },
   {
     title: "Anterior Capsular Phimosis",
     category: "Anterior Segment",
     // description: "Comprehensive case study of a patient presenting with acute corneal abrasion following foreign body trauma. Documentation includes initial presentation, treatment protocol, and follow-up care.",
     // findings: ["Fluorescein staining positive", "No signs of infection", "Complete healing in 72 hours"],
-    image: "/src/assets/images/anterior_segment_2.jpeg"
+    image: "/assets/images/anterior_segment_2.jpeg"
   },
   {
     title: "90D Optic Disc",
     category: "Posterior Segment",
     // description: "Comprehensive case study of a patient presenting with acute corneal abrasion following foreign body trauma. Documentation includes initial presentation, treatment protocol, and follow-up care.",
     // findings: ["Fluorescein staining positive", "No signs of infection", "Complete healing in 72 hours"],
-    image: "/src/assets/images/posterior_segment.jpeg"
+    image: "/assets/images/posterior_segment.jpeg"
   },
   {
     title: "Nuclear Sclerosis",
     category: "Cataract",
     // description: "Post-operative complication following cataract surgery. Documented progression and management strategies to prevent IOL decentration.",
     // findings: ["Progressive capsular contraction", "Managed with YAG capsulotomy", "Successful visual rehabilitation"],
-    image: "/src/assets/images/cataract.jpeg"
+    image: "/assets/images/cataract.jpeg"
   },
   {
     title: "Buphthalmous",
     category: "Glaucoma",
     // description: "Early detection and monitoring of pseudoexfoliation syndrome with secondary glaucoma. Long-term management protocol implemented.",
     // findings: ["IOP elevation to 28mmHg", "Gonioscopy showing angle changes", "Stable on topical medication"],
-    image: "/src/assets/images/glaucoma.jpeg"
+    image: "/assets/images/glaucoma.jpeg"
   },
   {
     title: "Pseudoexfoliation",
     category: "Glaucoma",
     // description: "Early detection and monitoring of pseudoexfoliation syndrome with secondary glaucoma. Long-term management protocol implemented.",
     // findings: ["IOP elevation to 28mmHg", "Gonioscopy showing angle changes", "Stable on topical medication"],
-    image: "/src/assets/images/glaucoma_2.jpeg"
+    image: "/assets/images/glaucoma_2.jpeg"
   }
 ];
 

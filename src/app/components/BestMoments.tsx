@@ -7,21 +7,21 @@ const moments = [
     icon: Award,
     title: "Graduation - Gold Medalist",
     description: "All praise belongs to Almighty 💫 Overwhelmed with gratitude! Graduated as a Gold Medalist🥇. I'll always be grateful for Dr. Agarwal's Institute of Optometry College's exceptional teaching and mentorship. I'm eager to apply my skills and knowledge in the real world.",
-    image: "src/assets/images/graduation.jpeg",
+    image: "/assets/images/graduation.jpeg",
     year: "2022"
   },
   {
     icon: Users,
     title: "First Eye Awareness Session with Children",
     description: "The day, unexpected... My first eye awareness session with kids was a blast! 😄 Humour + eye awareness + key lessons = a day to be remembered. Grateful for the red carpet welcome, roses, and respect 🙏. Truly, a day to cherish!",
-    image: "src/assets/images/first_eye.jpg",
+    image: "/assets/images/first_eye.jpg",
     year: "2023"
   },
   {
     icon: Microscope,
     title: "Wilson Disease Patient Journey",
     description: "Met a patient living with Wilson's disease since 2013, diagnosed early thanks to a sharp ophthalmologist 👁️. Their brother was identified too late and tragically passed away after a transplant 💔. The patient now manages their symptoms with resilience, medication, and strong support 💪. After leaving a dream engineering career, they're searching for purpose and fulfillment beyond their limitations 🌱.",
-    image: "src/assets/images/wd.jpeg",
+    image: "/assets/images/wd.jpeg",
     year: "2024"
     // featured: true
   },
@@ -29,14 +29,14 @@ const moments = [
     icon: Heart,
     title: "Meeting My Guru's Guru",
     description: "When your guru introduces you to their guru, the legacy of wisdom doubles 📚✨ — and the experience becomes truly priceless 🙏💫.",
-    image: "src/assets/images/guru.jpeg",
+    image: "/assets/images/guru.jpeg",
     year: "2025"
   },
   {
     icon: BookOpen,
     title: "ISVTEC Conference Highlights",
     description: "Truly delighted to be part of the International Conference on ISVTEC 2025 🎉 and extremely grateful for the opportunity to present my Oral Poster Presentation on “Development of Instant HeatPack for Portable Management of Meibomian Gland Dysfunction” 🔬. Honoured to receive the BEST POSTER AWARD 🏆. It was an enriching two‑day conference filled with valuable learnings 📚. Heartfelt thanks to all the esteemed speakers for sharing insights on how Eye Care and AI will together shape the future of healthcare 👁️🤖✨.",
-    image: "src/assets/images/Isvtec.jpeg",
+    image: "/assets/images/Isvtec.jpeg",
     year: "2025"
   }
 ];
