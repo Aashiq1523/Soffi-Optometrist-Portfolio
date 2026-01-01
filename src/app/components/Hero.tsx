@@ -60,7 +60,7 @@ export function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-amber-400 to-orange-500 rounded-full blur-2xl opacity-20 animate-pulse"></div>
             {/* Professional portrait image with fallback */}
             <ImageWithFallback
-              src="src\assests\images\me.jpeg"
+              src="src\assets\images\me.jpeg"
               alt="Professional portrait of Soffi A"
               className="relative w-80 h-80 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-8 border-white"
             />

@@ -8,7 +8,7 @@
  */
 export const handleDownloadResume = async () => {
   try {
-    const response = await fetch("/assests/doc/resume/resume.pdf"); // Resume File Path
+    const response = await fetch("/assets/doc/resume/resume.pdf"); // Resume File Path
     if (!response.ok) {
       throw new Error("Failed to fetch the file");
     }
